@@ -140,5 +140,3 @@ web:
 This setup gives you a **full three-tier microservices architecture** on Azure AKS with CI/CD, monitoring, and load generation — a great foundation for real-world Kubernetes skills.
 
 
-
-Do you want me to create that diagram for this README?
